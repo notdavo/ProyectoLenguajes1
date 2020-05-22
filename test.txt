@@ -11,3 +11,4 @@ Fabian	Araya	Mora	fabian.araya@tec.ac.cr	+506.25501230
 Emergencias	CRemergencias@costarica.cr	911	
 Policia	CRpolicia@costarica.cr	117	
 Tamagalpa	Araya	Perez	alaraya@tec.ac.cr	(+506) 25502558	
+Tamagalpa	Araya	Perez	alaraya@tec.ac.cr	(+506) 25502559	
